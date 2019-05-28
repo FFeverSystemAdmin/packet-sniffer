@@ -1,11 +1,11 @@
 {
-	"PORT": 5007,
+	"PORT": 5007, //Your PORT
 	"IP": "0.0.0.0",
 	"BUFFERSIZE":1024,
 	"DBCONFIG":{
-		"HOST":"localhost",
-		"USER":"ffever",
-		"PASSWD":"Xz6q%4o3",
-		"DATABASE":"vts_application"
+		"HOST":"YOUR_HOST",
+		"USER":"YOUR_USER",
+		"PASSWD":"YOUR_PASSWORD",
+		"DATABASE":"YOUR_DATABASE"
 	}
 }
