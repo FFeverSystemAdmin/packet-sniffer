@@ -1,0 +1,3 @@
+Socket Created Successfully!
+Socket binded to port 5007 
+Listening on 0.0.0.0:5007
